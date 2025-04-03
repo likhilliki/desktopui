@@ -1,0 +1,13 @@
+Team Name -  Beast Boy
+Problem Statment Ttile - Develop a robust & scalable approach for automating developer integration tests for .NET desktop UI
+College Name - AMC Engineering College, Banglore
+
+Team Member1
+Name - Likhil Gowda K A
+Phone Number - 9019861738
+Email - likhilgowda89@gmail.com
+
+Team Member2
+ Name - Bharath N
+Phone Number - 9148953116
+Email - bn7538538@gmail.com
